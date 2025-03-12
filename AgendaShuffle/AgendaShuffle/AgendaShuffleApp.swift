@@ -1,14 +1,14 @@
 //
-//  Agenda_ShuffleApp.swift
-//  Agenda Shuffle
+//  AgendaShuffleApp.swift
+//  AgendaShuffle
 //
-//  Created by alumno on 2/26/25.
+//  Created by alumno on 3/12/25.
 //
 
 import SwiftUI
 
 @main
-struct Agenda_ShuffleApp: App {
+struct AgendaShuffleApp: App {
     var body: some Scene {
         WindowGroup {
             PantallaAgenda()
