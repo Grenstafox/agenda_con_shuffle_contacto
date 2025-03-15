@@ -1,0 +1,411 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FB1C16AA2D81E35D002D5C0C /* AgendaShuffleApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16A92D81E35D002D5C0C /* AgendaShuffleApp.swift */; };
+		FB1C16AE2D81E35E002D5C0C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16AD2D81E35E002D5C0C /* Assets.xcassets */; };
+		FB1C16B12D81E35E002D5C0C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16B02D81E35E002D5C0C /* Preview Assets.xcassets */; };
+		FB1C16BA2D81E394002D5C0C /* PantallaAgenda.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16B92D81E394002D5C0C /* PantallaAgenda.swift */; };
+		FB1C16BD2D81E3D4002D5C0C /* contacto_agenda.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16BB2D81E3D4002D5C0C /* contacto_agenda.swift */; };
+		FB1C16CF2D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */; };
+		FB1C16D02D81E4CA002D5C0C /* contacto_prevista.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */; };
+		FB1C16D12D81E4CA002D5C0C /* el_american.webp in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C62D81E4CA002D5C0C /* el_american.webp */; };
+		FB1C16D22D81E4CA002D5C0C /* el_fan_de_kuno.avif in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C72D81E4CA002D5C0C /* el_fan_de_kuno.avif */; };
+		FB1C16D32D81E4CA002D5C0C /* el_guapo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C82D81E4CA002D5C0C /* el_guapo.jpg */; };
+		FB1C16D42D81E4CA002D5C0C /* el_gym_pro.avif in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C92D81E4CA002D5C0C /* el_gym_pro.avif */; };
+		FB1C16D52D81E4CA002D5C0C /* el_otaku.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16CA2D81E4CA002D5C0C /* el_otaku.jpg */; };
+		FB1C16D62D81E4CA002D5C0C /* icono.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16CB2D81E4CA002D5C0C /* icono.swift */; };
+		FB1C16D72D81E4CA002D5C0C /* nuke.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16CC2D81E4CA002D5C0C /* nuke.jpg */; };
+		FB1C16D82D81E4CA002D5C0C /* selfie de un tipo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16CD2D81E4CA002D5C0C /* selfie de un tipo.jpg */; };
+		FB1C16DA2D81E534002D5C0C /* pantalla_agregar_contacto.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16D92D81E534002D5C0C /* pantalla_agregar_contacto.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FB1C16A62D81E35D002D5C0C /* AgendaShuffle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AgendaShuffle.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB1C16A92D81E35D002D5C0C /* AgendaShuffleApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AgendaShuffleApp.swift; sourceTree = "<group>"; };
+		FB1C16AD2D81E35E002D5C0C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FB1C16B02D81E35E002D5C0C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FB1C16B92D81E394002D5C0C /* PantallaAgenda.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PantallaAgenda.swift; sourceTree = "<group>"; };
+		FB1C16BB2D81E3D4002D5C0C /* contacto_agenda.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contacto_agenda.swift; sourceTree = "<group>"; };
+		FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg"; sourceTree = "<group>"; };
+		FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contacto_prevista.swift; sourceTree = "<group>"; };
+		FB1C16C62D81E4CA002D5C0C /* el_american.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = el_american.webp; sourceTree = "<group>"; };
+		FB1C16C72D81E4CA002D5C0C /* el_fan_de_kuno.avif */ = {isa = PBXFileReference; lastKnownFileType = file; path = el_fan_de_kuno.avif; sourceTree = "<group>"; };
+		FB1C16C82D81E4CA002D5C0C /* el_guapo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = el_guapo.jpg; sourceTree = "<group>"; };
+		FB1C16C92D81E4CA002D5C0C /* el_gym_pro.avif */ = {isa = PBXFileReference; lastKnownFileType = file; path = el_gym_pro.avif; sourceTree = "<group>"; };
+		FB1C16CA2D81E4CA002D5C0C /* el_otaku.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = el_otaku.jpg; sourceTree = "<group>"; };
+		FB1C16CB2D81E4CA002D5C0C /* icono.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = icono.swift; sourceTree = "<group>"; };
+		FB1C16CC2D81E4CA002D5C0C /* nuke.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nuke.jpg; sourceTree = "<group>"; };
+		FB1C16CD2D81E4CA002D5C0C /* selfie de un tipo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "selfie de un tipo.jpg"; sourceTree = "<group>"; };
+		FB1C16D92D81E534002D5C0C /* pantalla_agregar_contacto.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pantalla_agregar_contacto.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FB1C16A32D81E35D002D5C0C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FB1C169D2D81E35D002D5C0C = {
+			isa = PBXGroup;
+			children = (
+				FB1C16BC2D81E3D4002D5C0C /* modelos */,
+				FB1C16CE2D81E4CA002D5C0C /* componentes */,
+				FB1C16A82D81E35D002D5C0C /* AgendaShuffle */,
+				FB1C16A72D81E35D002D5C0C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FB1C16A72D81E35D002D5C0C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FB1C16A62D81E35D002D5C0C /* AgendaShuffle.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FB1C16A82D81E35D002D5C0C /* AgendaShuffle */ = {
+			isa = PBXGroup;
+			children = (
+				FB1C16A92D81E35D002D5C0C /* AgendaShuffleApp.swift */,
+				FB1C16B92D81E394002D5C0C /* PantallaAgenda.swift */,
+				FB1C16AD2D81E35E002D5C0C /* Assets.xcassets */,
+				FB1C16C62D81E4CA002D5C0C /* el_american.webp */,
+				FB1C16C72D81E4CA002D5C0C /* el_fan_de_kuno.avif */,
+				FB1C16C82D81E4CA002D5C0C /* el_guapo.jpg */,
+				FB1C16C92D81E4CA002D5C0C /* el_gym_pro.avif */,
+				FB1C16CA2D81E4CA002D5C0C /* el_otaku.jpg */,
+				FB1C16D92D81E534002D5C0C /* pantalla_agregar_contacto.swift */,
+				FB1C16AF2D81E35E002D5C0C /* Preview Content */,
+			);
+			path = AgendaShuffle;
+			sourceTree = "<group>";
+		};
+		FB1C16AF2D81E35E002D5C0C /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				FB1C16B02D81E35E002D5C0C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		FB1C16BC2D81E3D4002D5C0C /* modelos */ = {
+			isa = PBXGroup;
+			children = (
+				FB1C16BB2D81E3D4002D5C0C /* contacto_agenda.swift */,
+			);
+			path = modelos;
+			sourceTree = "<group>";
+		};
+		FB1C16CE2D81E4CA002D5C0C /* componentes */ = {
+			isa = PBXGroup;
+			children = (
+				FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */,
+				FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */,
+				FB1C16CB2D81E4CA002D5C0C /* icono.swift */,
+				FB1C16CC2D81E4CA002D5C0C /* nuke.jpg */,
+				FB1C16CD2D81E4CA002D5C0C /* selfie de un tipo.jpg */,
+			);
+			path = componentes;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FB1C16A52D81E35D002D5C0C /* AgendaShuffle */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB1C16B42D81E35E002D5C0C /* Build configuration list for PBXNativeTarget "AgendaShuffle" */;
+			buildPhases = (
+				FB1C16A22D81E35D002D5C0C /* Sources */,
+				FB1C16A32D81E35D002D5C0C /* Frameworks */,
+				FB1C16A42D81E35D002D5C0C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AgendaShuffle;
+			productName = AgendaShuffle;
+			productReference = FB1C16A62D81E35D002D5C0C /* AgendaShuffle.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FB1C169E2D81E35D002D5C0C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					FB1C16A52D81E35D002D5C0C = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = FB1C16A12D81E35D002D5C0C /* Build configuration list for PBXProject "AgendaShuffle" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FB1C169D2D81E35D002D5C0C;
+			productRefGroup = FB1C16A72D81E35D002D5C0C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FB1C16A52D81E35D002D5C0C /* AgendaShuffle */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FB1C16A42D81E35D002D5C0C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FB1C16D82D81E4CA002D5C0C /* selfie de un tipo.jpg in Resources */,
+				FB1C16D12D81E4CA002D5C0C /* el_american.webp in Resources */,
+				FB1C16B12D81E35E002D5C0C /* Preview Assets.xcassets in Resources */,
+				FB1C16D42D81E4CA002D5C0C /* el_gym_pro.avif in Resources */,
+				FB1C16AE2D81E35E002D5C0C /* Assets.xcassets in Resources */,
+				FB1C16D72D81E4CA002D5C0C /* nuke.jpg in Resources */,
+				FB1C16D22D81E4CA002D5C0C /* el_fan_de_kuno.avif in Resources */,
+				FB1C16CF2D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg in Resources */,
+				FB1C16D32D81E4CA002D5C0C /* el_guapo.jpg in Resources */,
+				FB1C16D52D81E4CA002D5C0C /* el_otaku.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FB1C16A22D81E35D002D5C0C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FB1C16BD2D81E3D4002D5C0C /* contacto_agenda.swift in Sources */,
+				FB1C16BA2D81E394002D5C0C /* PantallaAgenda.swift in Sources */,
+				FB1C16D02D81E4CA002D5C0C /* contacto_prevista.swift in Sources */,
+				FB1C16AA2D81E35D002D5C0C /* AgendaShuffleApp.swift in Sources */,
+				FB1C16D62D81E4CA002D5C0C /* icono.swift in Sources */,
+				FB1C16DA2D81E534002D5C0C /* pantalla_agregar_contacto.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FB1C16B22D81E35E002D5C0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FB1C16B32D81E35E002D5C0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FB1C16B52D81E35E002D5C0C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AgendaShuffle/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mx.alumnos.uacj.AgendaShuffle;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FB1C16B62D81E35E002D5C0C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"AgendaShuffle/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = mx.alumnos.uacj.AgendaShuffle;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FB1C16A12D81E35D002D5C0C /* Build configuration list for PBXProject "AgendaShuffle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB1C16B22D81E35E002D5C0C /* Debug */,
+				FB1C16B32D81E35E002D5C0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB1C16B42D81E35E002D5C0C /* Build configuration list for PBXNativeTarget "AgendaShuffle" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB1C16B52D81E35E002D5C0C /* Debug */,
+				FB1C16B62D81E35E002D5C0C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FB1C169E2D81E35D002D5C0C /* Project object */;
+}
