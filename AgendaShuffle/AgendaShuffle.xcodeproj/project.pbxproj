@@ -12,7 +12,6 @@
 		FB1C16B12D81E35E002D5C0C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16B02D81E35E002D5C0C /* Preview Assets.xcassets */; };
 		FB1C16BA2D81E394002D5C0C /* PantallaAgenda.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16B92D81E394002D5C0C /* PantallaAgenda.swift */; };
 		FB1C16BD2D81E3D4002D5C0C /* contacto_agenda.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16BB2D81E3D4002D5C0C /* contacto_agenda.swift */; };
-		FB1C16CF2D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */; };
 		FB1C16D02D81E4CA002D5C0C /* contacto_prevista.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */; };
 		FB1C16D12D81E4CA002D5C0C /* el_american.webp in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C62D81E4CA002D5C0C /* el_american.webp */; };
 		FB1C16D22D81E4CA002D5C0C /* el_fan_de_kuno.avif in Resources */ = {isa = PBXBuildFile; fileRef = FB1C16C72D81E4CA002D5C0C /* el_fan_de_kuno.avif */; };
@@ -32,7 +31,6 @@
 		FB1C16B02D81E35E002D5C0C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FB1C16B92D81E394002D5C0C /* PantallaAgenda.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PantallaAgenda.swift; sourceTree = "<group>"; };
 		FB1C16BB2D81E3D4002D5C0C /* contacto_agenda.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contacto_agenda.swift; sourceTree = "<group>"; };
-		FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg"; sourceTree = "<group>"; };
 		FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = contacto_prevista.swift; sourceTree = "<group>"; };
 		FB1C16C62D81E4CA002D5C0C /* el_american.webp */ = {isa = PBXFileReference; lastKnownFileType = file; path = el_american.webp; sourceTree = "<group>"; };
 		FB1C16C72D81E4CA002D5C0C /* el_fan_de_kuno.avif */ = {isa = PBXFileReference; lastKnownFileType = file; path = el_fan_de_kuno.avif; sourceTree = "<group>"; };
@@ -110,7 +108,6 @@
 		FB1C16CE2D81E4CA002D5C0C /* componentes */ = {
 			isa = PBXGroup;
 			children = (
-				FB1C16C42D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg */,
 				FB1C16C52D81E4CA002D5C0C /* contacto_prevista.swift */,
 				FB1C16CB2D81E4CA002D5C0C /* icono.swift */,
 				FB1C16CC2D81E4CA002D5C0C /* nuke.jpg */,
@@ -184,7 +181,6 @@
 				FB1C16AE2D81E35E002D5C0C /* Assets.xcassets in Resources */,
 				FB1C16D72D81E4CA002D5C0C /* nuke.jpg in Resources */,
 				FB1C16D22D81E4CA002D5C0C /* el_fan_de_kuno.avif in Resources */,
-				FB1C16CF2D81E4CA002D5C0C /* 47014265-explosión-de-la-bomba-nuclear-guerra-nuclear-una-alta-resolución.jpg in Resources */,
 				FB1C16D32D81E4CA002D5C0C /* el_guapo.jpg in Resources */,
 				FB1C16D52D81E4CA002D5C0C /* el_otaku.jpg in Resources */,
 			);
